@@ -1,0 +1,14 @@
+{
+  "name": "student-bus",
+  "version": "1.0.0",
+  "description": "An application that tracks students on the bus, if they're allowed to have fun, and what they're saying.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
